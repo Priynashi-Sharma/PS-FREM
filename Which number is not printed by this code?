@@ -6,3 +6,7 @@ except ZeroDivisionError:
   print(300)
 finally:
   print(400)
+  
+o/p- 100
+     300
+     400
