@@ -1,0 +1,4 @@
+import random
+n = 'priyanshi'
+p = random.choice(n)
+print(p)
