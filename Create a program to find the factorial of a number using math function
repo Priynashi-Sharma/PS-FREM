@@ -1,4 +1,4 @@
 import math
 n=int(input("enter a no."))
-f=math.factorial()
+f=math.factorial(n)
 print(f'factorial is {f}')
